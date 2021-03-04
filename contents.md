@@ -1,11 +1,11 @@
 # Содержание:
 
-1. **Для чего нужен GIT**
-2. **Создание репозитория**
-3. **git init**
-4. **git add**
-5. **git status**
-6. **git commit**
-7. **Добавление удалённого репозитория**
-8. **git push**
-9. **Заключение**
+1. [**Для чего нужен GIT**](./whatfor)
+2. [**Создание репозитория**](./repcreation.md)
+3. [**git init**](./init.md)
+4. [**git add**](./add.md)
+5. [**git status**](./status.md)
+6. [**git commit**](./commit.md)
+7. [**Добавление удалённого репозитория**](./remoterep)
+8. [**git push**](./push.md)
+9. [**Заключение**](./conclusion.md)
