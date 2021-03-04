@@ -1,6 +1,6 @@
 # Содержание:
 
-1. [**Для чего нужен GIT**](./whatfor)
+1. [**Для чего нужен GIT**](./whatfor.md)
 2. [**Создание репозитория**](./repcreation.md)
 3. [**git init**](./init.md)
 4. [**git add**](./add.md)
